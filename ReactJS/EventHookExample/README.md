@@ -5,12 +5,14 @@
 #### Hook List
 
 + useInput
-+  useTabs
-+  useTitle
-+  useClick
-+  useConfirm
-+  usePreventEvent
-+  useBeforeLeave
-+  useFadeIn
-+  useNetwork
++ useTabs
++ useTitle
++ useClick
++ useConfirm
++ usePreventEvent
++ useBeforeLeave
++ useFadeIn
++ useNetwork
++ useFullScreen
++ useNotification
 
